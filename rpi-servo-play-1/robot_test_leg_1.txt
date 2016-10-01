@@ -1,0 +1,9 @@
+
+CD = Close / Down
+FU = Far / Up
+
+Name      Number  CD    FU
+=============================
+Vertical    0     150    420
+Forward     1     650    150 
+Backward    2     150    650
